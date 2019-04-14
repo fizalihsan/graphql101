@@ -1,5 +1,9 @@
 # graphql101
 
+Introduction to GraphQL - Python Version
+
+https://www.howtographql.com/graphql-python/0-introduction/
+
 ```bash
 python3.6 -m venv venv
 source venv/bin/activate # active virtual env
